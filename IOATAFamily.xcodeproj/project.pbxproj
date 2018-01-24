@@ -307,7 +307,7 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				INFOPLIST_FILE = "Info-IOATAFamily.plist";
 				INSTALLHDRS_COPY_PHASE = YES;
-				INSTALL_PATH = /Users/avisaven/Desktop;
+				INSTALL_PATH = /System/Library/Extensions;
 				KERNEL_MODULE = YES;
 				LIBRARY_SEARCH_PATHS = "";
 				MODULE_IOKIT = YES;
@@ -340,7 +340,7 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				INFOPLIST_FILE = "Info-IOATAFamily.plist";
 				INSTALLHDRS_COPY_PHASE = YES;
-				INSTALL_PATH = /Users/avisaven/Desktop;
+				INSTALL_PATH = /System/Library/Extensions;
 				KERNEL_MODULE = YES;
 				LIBRARY_SEARCH_PATHS = "";
 				MODULE_IOKIT = YES;
@@ -370,7 +370,7 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				INFOPLIST_FILE = "Info-IOATAFamily.plist";
 				INSTALLHDRS_COPY_PHASE = YES;
-				INSTALL_PATH = /Users/avisaven/Desktop;
+				INSTALL_PATH = /System/Library/Extensions;
 				KERNEL_MODULE = YES;
 				LIBRARY_SEARCH_PATHS = "";
 				MODULE_IOKIT = YES;
@@ -398,7 +398,7 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				INFOPLIST_FILE = "Info-IOATAFamily.plist";
 				INSTALLHDRS_COPY_PHASE = YES;
-				INSTALL_PATH = /Users/avisaven/Desktop;
+				INSTALL_PATH = /System/Library/Extensions;
 				KERNEL_MODULE = YES;
 				LIBRARY_SEARCH_PATHS = "";
 				MODULE_IOKIT = YES;
